@@ -1,0 +1,7 @@
+.form {
+    width: 100%;          /* Forces responsiveness on smaller screens */
+    max-width: 500px;     /* Sets the absolute maximum width of the form */
+    height: auto;         /* Lets the height grow naturally based on content */
+    margin: 0 auto;       /* Centers the form horizontally on the page */
+    padding: 20px;        /* Adds space inside the form border */
+}
